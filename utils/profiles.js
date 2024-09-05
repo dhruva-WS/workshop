@@ -93,6 +93,11 @@ export const data = [
     branch:"Mechanical",
   },
   {
+    name:"Dhruva R S",
+    githubUserName:"Dhruva-ws",
+    branch:"CSE",
+  },
+  {
     name: "Deetya S Salian",
     githubUserName: "deetyasalian",
     branch: "CSE",
